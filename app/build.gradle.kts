@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-    implementation("androidx.compose.foundation:foundation:1.7.8")
+    implementation(libs.androidx.compose.foundation)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
