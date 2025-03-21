@@ -14,6 +14,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.healthchart.ui.theme.HealthchartTheme
 
 class MainActivity : ComponentActivity() {
+
+    val sampleData = listOf(10f, 25f, 15f, 30f, 20f, 35f, 35f)
+    val xLabels = listOf("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -23,6 +27,14 @@ class MainActivity : ComponentActivity() {
                     Greeting(
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
+                    )
+
+                    FullLineChart(
+                        data = sampleData,
+                        xLabels = xLabels,
+                        title = "Weekly Activity",
+                        xLabel = "Day",
+                        yLabel = "Steps"
                     )
                 }
             }

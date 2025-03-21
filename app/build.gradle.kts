@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.healthchart"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.healthchart"
         minSdk = 30
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-
+    implementation("androidx.compose.foundation:foundation:1.7.8")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
