@@ -28,7 +28,13 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
-
+                    FullBarChart(
+                        data = sampleData,
+                        xLabels = xLabels,
+                        title = "Weekly Activity",
+                        xLabel = "Day",
+                        yLabel = "Steps"
+                    )
                     FullLineChart(
                         data = sampleData,
                         xLabels = xLabels,
