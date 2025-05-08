@@ -1,0 +1,52 @@
+[
+  {
+    "time": "2025-05-04T08:00:00Z",
+    "systolicMmHg": 121,
+    "diastolicMmHg": 76
+  },
+  {
+    "time": "2025-05-03T08:00:00Z",
+    "systolicMmHg": 127,
+    "diastolicMmHg": 79
+  },
+  {
+    "time": "2025-05-02T08:00:00Z",
+    "systolicMmHg": 128,
+    "diastolicMmHg": 76
+  },
+  {
+    "time": "2025-05-01T08:00:00Z",
+    "systolicMmHg": 128,
+    "diastolicMmHg": 80
+  },
+  {
+    "time": "2025-04-30T08:00:00Z",
+    "systolicMmHg": 129,
+    "diastolicMmHg": 81
+  },
+  {
+    "time": "2025-04-29T08:00:00Z",
+    "systolicMmHg": 115,
+    "diastolicMmHg": 83
+  },
+  {
+    "time": "2025-04-28T08:00:00Z",
+    "systolicMmHg": 124,
+    "diastolicMmHg": 84
+  },
+  {
+    "time": "2025-04-27T08:00:00Z",
+    "systolicMmHg": 125,
+    "diastolicMmHg": 73
+  },
+  {
+    "time": "2025-04-26T08:00:00Z",
+    "systolicMmHg": 126,
+    "diastolicMmHg": 76
+  },
+  {
+    "time": "2025-04-25T08:00:00Z",
+    "systolicMmHg": 126,
+    "diastolicMmHg": 74
+  }
+]

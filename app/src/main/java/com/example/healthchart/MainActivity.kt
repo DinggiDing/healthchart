@@ -4,8 +4,12 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -24,24 +28,29 @@ class MainActivity : ComponentActivity() {
         setContent {
             HealthchartTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )
-                    FullBarChart(
-                        data = sampleData,
-                        xLabels = xLabels,
-                        title = "Weekly Activity",
-                        xLabel = "Day",
-                        yLabel = "Steps"
-                    )
-                    FullLineChart(
-                        data = sampleData,
-                        xLabels = xLabels,
-                        title = "Weekly Activity",
-                        xLabel = "Day",
-                        yLabel = "Steps"
-                    )
+                    rememberScrollState().let { scrollState ->
+                        Column(
+                            modifier = Modifier
+                                .verticalScroll(scrollState)
+                                .fillMaxSize()
+                                .padding(innerPadding)
+                        ) {
+                            FullBarChart(
+                                data = sampleData,
+                                xLabels = xLabels,
+                                title = "Weekly Activity",
+                                xLabel = "Day",
+                                yLabel = "Steps"
+                            )
+                            FullLineChart(
+                                data = sampleData,
+                                xLabels = xLabels,
+                                title = "Weekly Activity",
+                                xLabel = "Day",
+                                yLabel = "Steps"
+                            )
+                        }
+                    }
                 }
             }
         }

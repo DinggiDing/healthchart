@@ -1,0 +1,82 @@
+[
+  {
+    "startTime": "2025-05-04T08:00:00Z",
+    "endTime": "2025-05-04T08:45:00Z",
+    "exerciseType": "CYCLING",
+    "title": "Session 1",
+    "energyBurnedKcal": 248.7,
+    "steps": 1166
+  },
+  {
+    "startTime": "2025-05-04T10:00:00Z",
+    "endTime": "2025-05-04T10:45:00Z",
+    "exerciseType": "CYCLING",
+    "title": "Session 2",
+    "energyBurnedKcal": 418.5,
+    "steps": 3078
+  },
+  {
+    "startTime": "2025-05-04T12:00:00Z",
+    "endTime": "2025-05-04T12:45:00Z",
+    "exerciseType": "WALKING",
+    "title": "Session 3",
+    "energyBurnedKcal": 240.4,
+    "steps": 2101
+  },
+  {
+    "startTime": "2025-05-04T14:00:00Z",
+    "endTime": "2025-05-04T14:45:00Z",
+    "exerciseType": "WALKING",
+    "title": "Session 4",
+    "energyBurnedKcal": 317.3,
+    "steps": 4802
+  },
+  {
+    "startTime": "2025-05-04T16:00:00Z",
+    "endTime": "2025-05-04T16:45:00Z",
+    "exerciseType": "WALKING",
+    "title": "Session 5",
+    "energyBurnedKcal": 441.6,
+    "steps": 1131
+  },
+  {
+    "startTime": "2025-05-04T18:00:00Z",
+    "endTime": "2025-05-04T18:45:00Z",
+    "exerciseType": "RUNNING",
+    "title": "Session 6",
+    "energyBurnedKcal": 208.7,
+    "steps": 2695
+  },
+  {
+    "startTime": "2025-05-04T20:00:00Z",
+    "endTime": "2025-05-04T20:45:00Z",
+    "exerciseType": "RUNNING",
+    "title": "Session 7",
+    "energyBurnedKcal": 415.2,
+    "steps": 2848
+  },
+  {
+    "startTime": "2025-05-04T22:00:00Z",
+    "endTime": "2025-05-04T22:45:00Z",
+    "exerciseType": "CYCLING",
+    "title": "Session 8",
+    "energyBurnedKcal": 152.9,
+    "steps": 2158
+  },
+  {
+    "startTime": "2025-05-05T00:00:00Z",
+    "endTime": "2025-05-05T00:45:00Z",
+    "exerciseType": "CYCLING",
+    "title": "Session 9",
+    "energyBurnedKcal": 377.4,
+    "steps": 2632
+  },
+  {
+    "startTime": "2025-05-05T02:00:00Z",
+    "endTime": "2025-05-05T02:45:00Z",
+    "exerciseType": "RUNNING",
+    "title": "Session 10",
+    "energyBurnedKcal": 315.9,
+    "steps": 1930
+  }
+]

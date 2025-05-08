@@ -1,0 +1,52 @@
+[
+  {
+    "time": "2025-05-04T08:00:00Z",
+    "bpm": 81,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:05:00Z",
+    "bpm": 76,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:10:00Z",
+    "bpm": 78,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:15:00Z",
+    "bpm": 67,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:20:00Z",
+    "bpm": 61,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:25:00Z",
+    "bpm": 82,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:30:00Z",
+    "bpm": 90,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:35:00Z",
+    "bpm": 90,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:40:00Z",
+    "bpm": 80,
+    "measurementMethod": "MEASURED"
+  },
+  {
+    "time": "2025-05-04T08:45:00Z",
+    "bpm": 77,
+    "measurementMethod": "MEASURED"
+  }
+]

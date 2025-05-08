@@ -1,0 +1,35 @@
+[
+  {
+    "startTime": "2025-05-04T00:00:00Z",
+    "endTime": "2025-05-04T08:00:00Z",
+    "title": "Night Sleep",
+    "notes": "Typical sleep cycle",
+    "stages": [
+      {
+        "stage": "LIGHT",
+        "startTime": "2025-05-04T00:00:00Z",
+        "endTime": "2025-05-04T01:30:00Z"
+      },
+      {
+        "stage": "DEEP",
+        "startTime": "2025-05-04T01:30:00Z",
+        "endTime": "2025-05-04T03:00:00Z"
+      },
+      {
+        "stage": "DEEP",
+        "startTime": "2025-05-04T03:00:00Z",
+        "endTime": "2025-05-04T04:30:00Z"
+      },
+      {
+        "stage": "DEEP",
+        "startTime": "2025-05-04T04:30:00Z",
+        "endTime": "2025-05-04T06:00:00Z"
+      },
+      {
+        "stage": "REM",
+        "startTime": "2025-05-04T06:00:00Z",
+        "endTime": "2025-05-04T07:30:00Z"
+      }
+    ]
+  }
+]
