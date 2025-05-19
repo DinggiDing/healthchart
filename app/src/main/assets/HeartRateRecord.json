@@ -1,52 +1,422 @@
 [
   {
-    "time": "2025-05-04T08:00:00Z",
-    "bpm": 81,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T08:00:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T08:00:00Z",
+        "bpm": 83
+      },
+      {
+        "time": "2025-05-04T08:01:00Z",
+        "bpm": 61
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:05:00Z",
-    "bpm": 76,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T07:50:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T07:50:00Z",
+        "bpm": 76
+      },
+      {
+        "time": "2025-05-04T07:51:00Z",
+        "bpm": 83
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:10:00Z",
-    "bpm": 78,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T07:40:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T07:40:00Z",
+        "bpm": 62
+      },
+      {
+        "time": "2025-05-04T07:41:00Z",
+        "bpm": 85
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:15:00Z",
-    "bpm": 67,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T07:30:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T07:30:00Z",
+        "bpm": 85
+      },
+      {
+        "time": "2025-05-04T07:31:00Z",
+        "bpm": 88
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:20:00Z",
-    "bpm": 61,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T07:20:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T07:20:00Z",
+        "bpm": 81
+      },
+      {
+        "time": "2025-05-04T07:21:00Z",
+        "bpm": 64
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:25:00Z",
-    "bpm": 82,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T07:10:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T07:10:00Z",
+        "bpm": 81
+      },
+      {
+        "time": "2025-05-04T07:11:00Z",
+        "bpm": 88
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:30:00Z",
-    "bpm": 90,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T07:00:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T07:00:00Z",
+        "bpm": 75
+      },
+      {
+        "time": "2025-05-04T07:01:00Z",
+        "bpm": 97
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:35:00Z",
-    "bpm": 90,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T06:50:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T06:50:00Z",
+        "bpm": 95
+      },
+      {
+        "time": "2025-05-04T06:51:00Z",
+        "bpm": 97
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:40:00Z",
-    "bpm": 80,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T06:40:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T06:40:00Z",
+        "bpm": 97
+      },
+      {
+        "time": "2025-05-04T06:41:00Z",
+        "bpm": 67
+      }
+    ]
   },
   {
-    "time": "2025-05-04T08:45:00Z",
-    "bpm": 77,
-    "measurementMethod": "MEASURED"
+    "startTime": "2025-05-04T06:30:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T06:30:00Z",
+        "bpm": 67
+      },
+      {
+        "time": "2025-05-04T06:31:00Z",
+        "bpm": 73
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T06:20:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T06:20:00Z",
+        "bpm": 93
+      },
+      {
+        "time": "2025-05-04T06:21:00Z",
+        "bpm": 83
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T06:10:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T06:10:00Z",
+        "bpm": 98
+      },
+      {
+        "time": "2025-05-04T06:11:00Z",
+        "bpm": 77
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T06:00:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T06:00:00Z",
+        "bpm": 64
+      },
+      {
+        "time": "2025-05-04T06:01:00Z",
+        "bpm": 76
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T05:50:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T05:50:00Z",
+        "bpm": 80
+      },
+      {
+        "time": "2025-05-04T05:51:00Z",
+        "bpm": 93
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T05:40:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T05:40:00Z",
+        "bpm": 78
+      },
+      {
+        "time": "2025-05-04T05:41:00Z",
+        "bpm": 61
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T05:30:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T05:30:00Z",
+        "bpm": 90
+      },
+      {
+        "time": "2025-05-04T05:31:00Z",
+        "bpm": 80
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T05:20:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T05:20:00Z",
+        "bpm": 62
+      },
+      {
+        "time": "2025-05-04T05:21:00Z",
+        "bpm": 84
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T05:10:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T05:10:00Z",
+        "bpm": 67
+      },
+      {
+        "time": "2025-05-04T05:11:00Z",
+        "bpm": 96
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T05:00:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T05:00:00Z",
+        "bpm": 62
+      },
+      {
+        "time": "2025-05-04T05:01:00Z",
+        "bpm": 64
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T04:50:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T04:50:00Z",
+        "bpm": 63
+      },
+      {
+        "time": "2025-05-04T04:51:00Z",
+        "bpm": 88
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T04:40:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T04:40:00Z",
+        "bpm": 72
+      },
+      {
+        "time": "2025-05-04T04:41:00Z",
+        "bpm": 72
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T04:30:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T04:30:00Z",
+        "bpm": 88
+      },
+      {
+        "time": "2025-05-04T04:31:00Z",
+        "bpm": 85
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T04:20:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T04:20:00Z",
+        "bpm": 80
+      },
+      {
+        "time": "2025-05-04T04:21:00Z",
+        "bpm": 93
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T04:10:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T04:10:00Z",
+        "bpm": 71
+      },
+      {
+        "time": "2025-05-04T04:11:00Z",
+        "bpm": 64
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T04:00:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T04:00:00Z",
+        "bpm": 64
+      },
+      {
+        "time": "2025-05-04T04:01:00Z",
+        "bpm": 93
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T03:50:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T03:50:00Z",
+        "bpm": 73
+      },
+      {
+        "time": "2025-05-04T03:51:00Z",
+        "bpm": 74
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T03:40:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T03:40:00Z",
+        "bpm": 82
+      },
+      {
+        "time": "2025-05-04T03:41:00Z",
+        "bpm": 77
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T03:30:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T03:30:00Z",
+        "bpm": 65
+      },
+      {
+        "time": "2025-05-04T03:31:00Z",
+        "bpm": 64
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T03:20:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T03:20:00Z",
+        "bpm": 95
+      },
+      {
+        "time": "2025-05-04T03:21:00Z",
+        "bpm": 97
+      }
+    ]
+  },
+  {
+    "startTime": "2025-05-04T03:10:00Z",
+    "startZoneOffset": "+09:00",
+    "samples": [
+      {
+        "time": "2025-05-04T03:10:00Z",
+        "bpm": 93
+      },
+      {
+        "time": "2025-05-04T03:11:00Z",
+        "bpm": 98
+      }
+    ]
   }
 ]
