@@ -37,6 +37,17 @@ android {
     buildFeatures {
         compose = true
     }
+    lint {
+        lintConfig = file("lint.xml")
+        warningsAsErrors = false
+        abortOnError = true
+        htmlReport = true
+        xmlReport = true
+        htmlOutput = file("$project.buildDir/reports/lint/lint-report.html")
+        xmlOutput = file("$project.buildDir/reports/lint/lint-report.xml")
+        checkDependencies = true
+        disable += ["ContentDescription", "HardcodedText"]
+    }
 }
 
 dependencies {
