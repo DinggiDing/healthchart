@@ -18,6 +18,12 @@ class MainActivity : ComponentActivity() {
     val sampleData = listOf(10f, 25f, 15f, 30f, 20f, 35f, 35f)
     val xLabels = listOf("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
 
+    val dietData = mapOf(
+        "Carbs" to 8f,
+        "Protein" to 59f,
+        "Fat" to 33f
+    )
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -36,6 +42,17 @@ class MainActivity : ComponentActivity() {
                         yLabel = "Steps"
                     )
                     FullLineChart(
+                        data = sampleData,
+                        xLabels = xLabels,
+                        title = "Weekly Activity",
+                        xLabel = "Day",
+                        yLabel = "Steps"
+                    )
+                    FullPieChart(
+                        data = dietData,
+                        title = "Weekly Activity"
+                    )
+                    FullScatterPlot(
                         data = sampleData,
                         xLabels = xLabels,
                         title = "Weekly Activity",
