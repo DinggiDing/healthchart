@@ -1,0 +1,272 @@
+[
+  {
+    "startTime": "2025-05-04T08:00:00Z",
+    "endTime": "2025-05-04T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.4,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-05-03T20:00:00Z",
+    "endTime": "2025-05-03T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 7.0,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-05-03T08:00:00Z",
+    "endTime": "2025-05-03T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.8,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "LUNCH",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-05-02T20:00:00Z",
+    "endTime": "2025-05-02T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.5,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-05-02T08:00:00Z",
+    "endTime": "2025-05-02T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.9,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-05-01T20:00:00Z",
+    "endTime": "2025-05-01T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.9,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "UNKNOWN",
+    "relationToMeal": "BEFORE_MEAL"
+  },
+  {
+    "startTime": "2025-05-01T08:00:00Z",
+    "endTime": "2025-05-01T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.7,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "BEFORE_MEAL"
+  },
+  {
+    "startTime": "2025-04-30T20:00:00Z",
+    "endTime": "2025-04-30T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.5,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-30T08:00:00Z",
+    "endTime": "2025-04-30T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.3,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-29T20:00:00Z",
+    "endTime": "2025-04-29T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.4,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "FASTING"
+  },
+  {
+    "startTime": "2025-04-29T08:00:00Z",
+    "endTime": "2025-04-29T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.8,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-28T20:00:00Z",
+    "endTime": "2025-04-28T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.2,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "LUNCH",
+    "relationToMeal": "BEFORE_MEAL"
+  },
+  {
+    "startTime": "2025-04-28T08:00:00Z",
+    "endTime": "2025-04-28T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.3,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-27T20:00:00Z",
+    "endTime": "2025-04-27T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.5,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "LUNCH",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-27T08:00:00Z",
+    "endTime": "2025-04-27T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.5,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "LUNCH",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-26T20:00:00Z",
+    "endTime": "2025-04-26T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.0,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-26T08:00:00Z",
+    "endTime": "2025-04-26T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.2,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "FASTING"
+  },
+  {
+    "startTime": "2025-04-25T20:00:00Z",
+    "endTime": "2025-04-25T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.4,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "BREAKFAST",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-25T08:00:00Z",
+    "endTime": "2025-04-25T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.5,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "LUNCH",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-24T20:00:00Z",
+    "endTime": "2025-04-24T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.6,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "BEFORE_MEAL"
+  },
+  {
+    "startTime": "2025-04-24T08:00:00Z",
+    "endTime": "2025-04-24T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.1,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "UNKNOWN",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-23T20:00:00Z",
+    "endTime": "2025-04-23T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.6,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "UNKNOWN",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-23T08:00:00Z",
+    "endTime": "2025-04-23T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.7,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "FASTING"
+  },
+  {
+    "startTime": "2025-04-22T20:00:00Z",
+    "endTime": "2025-04-22T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.4,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "UNKNOWN",
+    "relationToMeal": "FASTING"
+  },
+  {
+    "startTime": "2025-04-22T08:00:00Z",
+    "endTime": "2025-04-22T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.1,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "FASTING"
+  },
+  {
+    "startTime": "2025-04-21T20:00:00Z",
+    "endTime": "2025-04-21T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.8,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-21T08:00:00Z",
+    "endTime": "2025-04-21T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 5.5,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "FASTING"
+  },
+  {
+    "startTime": "2025-04-20T20:00:00Z",
+    "endTime": "2025-04-20T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.6,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "UNKNOWN",
+    "relationToMeal": "AFTER_MEAL"
+  },
+  {
+    "startTime": "2025-04-20T08:00:00Z",
+    "endTime": "2025-04-20T08:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 6.4,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "DINNER",
+    "relationToMeal": "BEFORE_MEAL"
+  },
+  {
+    "startTime": "2025-04-19T20:00:00Z",
+    "endTime": "2025-04-19T20:01:00Z",
+    "zoneOffset": "+09:00",
+    "levelMillimolesPerLiter": 4.3,
+    "specimenSource": "FINGER_PRICK",
+    "mealType": "UNKNOWN",
+    "relationToMeal": "BEFORE_MEAL"
+  }
+]

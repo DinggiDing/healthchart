@@ -1,0 +1,242 @@
+[
+  {
+    "startTime": "2025-05-04T08:00:00Z",
+    "endTime": "2025-05-04T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 1",
+    "notes": "Felt good during session 1.",
+    "exerciseType": "SWIMMING"
+  },
+  {
+    "startTime": "2025-05-03T20:00:00Z",
+    "endTime": "2025-05-03T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 2",
+    "notes": "Felt good during session 2.",
+    "exerciseType": "WALKING"
+  },
+  {
+    "startTime": "2025-05-03T08:00:00Z",
+    "endTime": "2025-05-03T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 3",
+    "notes": "Felt good during session 3.",
+    "exerciseType": "STRENGTH_TRAINING"
+  },
+  {
+    "startTime": "2025-05-02T20:00:00Z",
+    "endTime": "2025-05-02T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 4",
+    "notes": "Felt good during session 4.",
+    "exerciseType": "SWIMMING"
+  },
+  {
+    "startTime": "2025-05-02T08:00:00Z",
+    "endTime": "2025-05-02T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 5",
+    "notes": "Felt good during session 5.",
+    "exerciseType": "STRENGTH_TRAINING"
+  },
+  {
+    "startTime": "2025-05-01T20:00:00Z",
+    "endTime": "2025-05-01T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 6",
+    "notes": "Felt good during session 6.",
+    "exerciseType": "ROWING"
+  },
+  {
+    "startTime": "2025-05-01T08:00:00Z",
+    "endTime": "2025-05-01T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 7",
+    "notes": "Felt good during session 7.",
+    "exerciseType": "ELLIPTICAL"
+  },
+  {
+    "startTime": "2025-04-30T20:00:00Z",
+    "endTime": "2025-04-30T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 8",
+    "notes": "Felt good during session 8.",
+    "exerciseType": "WALKING"
+  },
+  {
+    "startTime": "2025-04-30T08:00:00Z",
+    "endTime": "2025-04-30T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 9",
+    "notes": "Felt good during session 9.",
+    "exerciseType": "YOGA"
+  },
+  {
+    "startTime": "2025-04-29T20:00:00Z",
+    "endTime": "2025-04-29T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 10",
+    "notes": "Felt good during session 10.",
+    "exerciseType": "RUNNING"
+  },
+  {
+    "startTime": "2025-04-29T08:00:00Z",
+    "endTime": "2025-04-29T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 11",
+    "notes": "Felt good during session 11.",
+    "exerciseType": "CYCLING"
+  },
+  {
+    "startTime": "2025-04-28T20:00:00Z",
+    "endTime": "2025-04-28T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 12",
+    "notes": "Felt good during session 12.",
+    "exerciseType": "WALKING"
+  },
+  {
+    "startTime": "2025-04-28T08:00:00Z",
+    "endTime": "2025-04-28T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 13",
+    "notes": "Felt good during session 13.",
+    "exerciseType": "YOGA"
+  },
+  {
+    "startTime": "2025-04-27T20:00:00Z",
+    "endTime": "2025-04-27T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 14",
+    "notes": "Felt good during session 14.",
+    "exerciseType": "ELLIPTICAL"
+  },
+  {
+    "startTime": "2025-04-27T08:00:00Z",
+    "endTime": "2025-04-27T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 15",
+    "notes": "Felt good during session 15.",
+    "exerciseType": "YOGA"
+  },
+  {
+    "startTime": "2025-04-26T20:00:00Z",
+    "endTime": "2025-04-26T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 16",
+    "notes": "Felt good during session 16.",
+    "exerciseType": "YOGA"
+  },
+  {
+    "startTime": "2025-04-26T08:00:00Z",
+    "endTime": "2025-04-26T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 17",
+    "notes": "Felt good during session 17.",
+    "exerciseType": "WALKING"
+  },
+  {
+    "startTime": "2025-04-25T20:00:00Z",
+    "endTime": "2025-04-25T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 18",
+    "notes": "Felt good during session 18.",
+    "exerciseType": "ROWING"
+  },
+  {
+    "startTime": "2025-04-25T08:00:00Z",
+    "endTime": "2025-04-25T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 19",
+    "notes": "Felt good during session 19.",
+    "exerciseType": "STRENGTH_TRAINING"
+  },
+  {
+    "startTime": "2025-04-24T20:00:00Z",
+    "endTime": "2025-04-24T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 20",
+    "notes": "Felt good during session 20.",
+    "exerciseType": "STRENGTH_TRAINING"
+  },
+  {
+    "startTime": "2025-04-24T08:00:00Z",
+    "endTime": "2025-04-24T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 21",
+    "notes": "Felt good during session 21.",
+    "exerciseType": "STRENGTH_TRAINING"
+  },
+  {
+    "startTime": "2025-04-23T20:00:00Z",
+    "endTime": "2025-04-23T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 22",
+    "notes": "Felt good during session 22.",
+    "exerciseType": "ROWING"
+  },
+  {
+    "startTime": "2025-04-23T08:00:00Z",
+    "endTime": "2025-04-23T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 23",
+    "notes": "Felt good during session 23.",
+    "exerciseType": "YOGA"
+  },
+  {
+    "startTime": "2025-04-22T20:00:00Z",
+    "endTime": "2025-04-22T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 24",
+    "notes": "Felt good during session 24.",
+    "exerciseType": "ROWING"
+  },
+  {
+    "startTime": "2025-04-22T08:00:00Z",
+    "endTime": "2025-04-22T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 25",
+    "notes": "Felt good during session 25.",
+    "exerciseType": "YOGA"
+  },
+  {
+    "startTime": "2025-04-21T20:00:00Z",
+    "endTime": "2025-04-21T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 26",
+    "notes": "Felt good during session 26.",
+    "exerciseType": "RUNNING"
+  },
+  {
+    "startTime": "2025-04-21T08:00:00Z",
+    "endTime": "2025-04-21T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 27",
+    "notes": "Felt good during session 27.",
+    "exerciseType": "ELLIPTICAL"
+  },
+  {
+    "startTime": "2025-04-20T20:00:00Z",
+    "endTime": "2025-04-20T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 28",
+    "notes": "Felt good during session 28.",
+    "exerciseType": "STRENGTH_TRAINING"
+  },
+  {
+    "startTime": "2025-04-20T08:00:00Z",
+    "endTime": "2025-04-20T08:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 29",
+    "notes": "Felt good during session 29.",
+    "exerciseType": "RUNNING"
+  },
+  {
+    "startTime": "2025-04-19T20:00:00Z",
+    "endTime": "2025-04-19T20:45:00Z",
+    "zoneOffset": "+09:00",
+    "title": "Exercise Session 30",
+    "notes": "Felt good during session 30.",
+    "exerciseType": "CYCLING"
+  }
+]

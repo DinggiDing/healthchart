@@ -41,8 +41,8 @@ fun FullBarChart(
                 .height(250.dp)
         ) {
             Canvas(modifier = Modifier.fillMaxSize()) {
-                val chartHeight = size.height * 0.8f
-                val chartWidth = size.width * 0.8f
+                val chartHeight = size.height * 0.9f
+                val chartWidth = size.width * 0.9f
                 val originX = 60f
                 val originY = chartHeight - 40f
                 // val originX = size.width * 0.05f
@@ -92,7 +92,7 @@ fun FullBarChart(
                 }
                 // X/Y Axis Lines
                 drawLine(Color.Black, Offset(originX, chartHeight), Offset(originX, 0f), 2f)
-                drawLine(Color.Black, Offset(originX, chartHeight), Offset(size.width, chartHeight), 2f)
+                drawLine(Color.Black, Offset(originX, chartHeight), Offset(originX+chartWidth, chartHeight), 2f)
 
                 // Draw bars
                 for (i in data.indices) {
